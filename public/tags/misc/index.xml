@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on No Exist</title>
+    <link>//localhost:1313/tags/misc/</link>
+    <description>Recent content in Misc on No Exist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 yatogami</copyright>
+    <lastBuildDate>Thu, 30 Nov 2023 02:16:50 +0700</lastBuildDate><atom:link href="//localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1337CTF 2023</title>
+      <link>//localhost:1313/posts/1337ctf/</link>
+      <pubDate>Thu, 30 Nov 2023 02:16:50 +0700</pubDate>
+      
+      <guid>//localhost:1313/posts/1337ctf/</guid>
+      <description>&lt;p&gt;On the 17th-19th I participated in 1337 CTF, which was the time I participated as best I could with my team. With 1 difficult challenge, I stayed up until 4am looking for materials and missed the test. Both happy and sad. I&amp;rsquo;ll try harder anyway. Thank you to everyone on the team for supporting me.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1337ctf/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

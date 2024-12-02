@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "No Exist"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  # logo = "img/logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Yatogami"
+  image = "img/yato-eyes.jpg"
+  headline = "I just want to find myself"
+  bio = "I can't find anything"
+   links = [
+     { twitter = "https://x.com/kzbcozy" },
+     { github = "https://github.com/kozybear" },
+     { linkedin = "https://www.linkedin.com/in/vi-hoang-bao-44aa34214/" }
+   ]
