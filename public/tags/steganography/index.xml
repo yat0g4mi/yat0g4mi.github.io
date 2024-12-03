@@ -25,15 +25,14 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
 &lt;p&gt;Download and open the initial file, which is a regular image named &amp;ldquo;legit.png&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;
-    &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/assets/posts/Cookie-Arena/legit.png&#34; alt=&#34;pic1&#34; /&gt;
-      
-    &lt;/figure&gt;
-&lt;/p&gt;</description>
+  &lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://live.staticflickr.com/65535/54180290521_9fe53d4613_c.jpg&#34; alt=&#34;pic1&#34; /&gt;
+    
+  &lt;/figure&gt;
+
+I tried using binwalk to check, and it seems there are some hidden files within it:&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/cookie-arena/cover.png" />
     </item>
     

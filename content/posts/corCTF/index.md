@@ -1,12 +1,11 @@
 --- 
-title: "corCTF 2024"
+title: "corCTF"
 date: 2024-07-30T00:20:31+07:00
 tags: [Forensics]
 author: [1]
 ---
 
-# Solution
-## 1. Forensics/The-conspirasy
+## 1. For/The-conspirasy
 - Challenge give me 2 files : one is pcap, one is python code. I tried opening the pcap file to see what was there. At first glance, it contained TCP streams containing data in the form [x,y,z ...] with 2 types including numbers less than or equal to 100 and large numbers with 3 or more digits. 
 
     ![pic](/assets/posts/corCTF%202024/the-conspiracy/1.png)
@@ -131,9 +130,9 @@ keys = read_numbers_from_file('2.txt')
 print(decrypt(finalmessage, keys))
 ```
 
-FLAG : *corctf{b@53d_af_f0r_th3_w1n}*
+FLAG : `corctf{b@53d_af_f0r_th3_w1n}`
 
-## 2. Forensics/Ilfiltration
+## 2. For/Ilfiltration
 The challenge requires answering some questions to get the flag, the challenge file is an event logs file. Since I am not familiar with using chainsaw, I only use 2 tools here, event viewer and EVTXeCMD.
 
 ```Q1: We'd like to confirm what the username of the main user on the target's computer is. Can you provide this information? ```
@@ -176,4 +175,6 @@ ANSWER: Administrator
 SOLVE: In this ques, i use [Timeline Explorer](https://f001.backblazeb2.com/file/EricZimmermanTools/net6/TimelineExplorer.zip) and filter `Username=notabackdoor`, we can see in EID `4672 line : Administrative logon`, so the answer is Administrator.
     ![pic](/assets/posts/corCTF%202024/ilfiltration/Q6.png)
 
-FLAG: *corctf{alw4y5_l3m0n_7h1nk_b3f0r3_y0u_c0mm1t_cr1m3}*
+FLAG: `corctf{alw4y5_l3m0n_7h1nk_b3f0r3_y0u_c0mm1t_cr1m3}`
+
+![meme](https://media.tenor.com/wT-64avQxegAAAAi/i-love-you-pepe.gif)

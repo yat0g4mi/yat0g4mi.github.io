@@ -15,14 +15,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-28T15:34:31+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/spookyctf/</loc>
+    <lastmod>2024-10-28T15:34:31+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/cis-ctf/</loc>
+    <lastmod>2024-09-30T17:31:45+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/akasecctf/</loc>
+    <lastmod>2024-08-30T08:20:31+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/posts/corctf/</loc>
     <lastmod>2024-07-30T00:20:31+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-07-30T00:20:31+07:00</lastmod>
+    <loc>//localhost:1313/posts/breakthesyntaxctf/</loc>
+    <lastmod>2024-06-25T11:20:31+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

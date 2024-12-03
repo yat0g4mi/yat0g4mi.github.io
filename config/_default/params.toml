@@ -17,7 +17,7 @@ mainSections = ["posts", "section2"]
 
 disableImageOptimization = true
 
-defaultBackgroundImage = "/img/cute-corgi.gif"
+defaultBackgroundImage = "/img/galaxy.jpg"
 # defaultFeaturedImage = ""
 
 # highlightCurrentMenuArea = true
